@@ -1,5 +1,5 @@
 # TMD-Nanotriangles
-Source code for calculation of second-harmonic generation in TMD nanotriangles. Includes codes for band-structure, visualization, and second-harmonic generation. 
+Source code for calculation of second-harmonic generation in TMD nanotriangles. Includes codes for band structure, visualization, and second-harmonic generation. 
 (c) Quantum Transport Theory and Simulation Group, Electrical and Computer Engineering, University of Wisconsin - Madison, Madison, USA
     https://qtts.engr.wisc.edu/
 
